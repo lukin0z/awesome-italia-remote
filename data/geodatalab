@@ -1,0 +1,27 @@
+{
+    "name": "GeoDataLab",
+    "career_page_url": "https://www.geodatalab.it/lavora-con-noi/",
+    "url": "https://www.geodatalab.it",
+    "remote_policy": "Full",
+    "hiring_policy": "Contract",
+    "type": "B2B",
+    "categories": [
+        "cloud_software"
+    ],
+    "tags": [
+        "Django",
+        "Python",        
+        "Java",
+        "PHP",
+        "PostgreSQL",
+        "Oracle",
+        "GeoNode",
+        "MapStore",
+        "Geoserver",
+        "Angular",
+        "Docker",
+        "React",
+        "TypeScript"
+        
+    ]
+}
